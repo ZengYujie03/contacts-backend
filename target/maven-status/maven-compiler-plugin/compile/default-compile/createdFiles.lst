@@ -1,0 +1,6 @@
+com\hell\crud\service\SysUserService.class
+com\hell\HellApplication.class
+com\hell\crud\service\impl\SysUserServiceImpl.class
+com\hell\crud\entity\SysUser.class
+com\hell\crud\controller\SysUserController.class
+com\hell\crud\mapper\SysUserMapper.class
